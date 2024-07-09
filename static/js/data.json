@@ -16,7 +16,7 @@
     "project":[
         {
             "titre": "Hanami",
-            "description": "Projet perso",
+            "description": "Projet Personnel",
             "dateCreation": "2021",
             "dateUpdate": "",
             "url": "https://hanami-cdbe.com/",
@@ -31,7 +31,16 @@
             "dateUpdate": "",
             "url": "https://gotobabylone.com/",
             "color":"#8c51ff",
-            "last": true
+            "last": false
+        },
+        {
+            "titre": "GoogleCheat",
+            "description": "Projet Personnel",
+            "dateCreation": "2023",
+            "dateUpdate": "",
+            "url": "https://github.com/Zeyoman/googleCheat",
+            "color":"#4285F4",
+            "last": false
         },
         {
             "titre": "Nike 60 years",
@@ -49,7 +58,7 @@
             "dateUpdate": "",
             "url": "https://github.com/Zeyoman/chatbot",
             "color":"#FFD300",
-            "last": true
+            "last": false
         }
     ]
 }
