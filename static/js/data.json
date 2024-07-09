@@ -1,0 +1,55 @@
+{
+    "quote":[
+        "Keep focused! Keep going!",
+        "Great risks come with great rewards.",
+        "Part of the journey is the end.",
+        "You know, I keep telling everybody they should move on and grow. Some do. But not us.",
+        "The hardest choices require the strongest wills.",
+        "But a thing isn’t beautiful because it lasts. It’s a privilege to be among them.",
+        "I can do this all day.",
+        "You never know. You hope for the best and make do with what you get.",
+        "If you don’t take risks, you can’t create a future.",
+        "Push through the pain. Giving up hurts more.",
+        "If you never listen to anyone, you can't give proper advice.",
+        "Dead people receive more flowers than living ones because regret is stronger than gratitude."
+    ],
+    "project":[
+        {
+            "titre": "Hanami",
+            "description": "Projet perso",
+            "dateCreation": "2021",
+            "dateUpdate": "",
+            "url": "https://hanami-cdbe.com/",
+            "color":"#ffe4e1",
+            "last": false
+
+        },
+        {
+            "titre": "Babylone",
+            "description": "Site Alternance",
+            "dateCreation": "2021-2024",
+            "dateUpdate": "",
+            "url": "https://gotobabylone.com/",
+            "color":"#8c51ff",
+            "last": true
+        },
+        {
+            "titre": "Nike 60 years",
+            "description": "Projet d'école",
+            "dateCreation": "2024 ( 2j )",
+            "dateUpdate": "",
+            "url": "https://github.com/Zeyoman/workShop2024Partiel1",
+            "color":"#111111",
+            "last": true
+        },
+        {
+            "titre": "Chatbot",
+            "description": "Projet d'école",
+            "dateCreation": "2024 ( 1j )",
+            "dateUpdate": "",
+            "url": "https://github.com/Zeyoman/chatbot",
+            "color":"#FFD300",
+            "last": true
+        }
+    ]
+}

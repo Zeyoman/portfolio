@@ -1,0 +1,39 @@
+#projectList{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+}
+
+.projectContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 33.33%;
+    /* height: 500px; */
+    margin: 2px;
+    padding: 10px;
+    text-align: center;
+    flex: 1 1 0;
+    flex-basis: calc(33.33% - 4px);
+    cursor: pointer;
+}
+
+.projectNameH {
+    font-size: clamp(16px,2vw,70px);
+}
+
+.projectInfo > * {
+    font-size: clamp(16px, 1vw, 50px);
+}
+
+#searchBar:focus-visible {
+    outline: 2px solid orange;
+}
+
+#noSearchFound{
+    width: 100%;
+    margin-top: 25%;
+    justify-content: center;
+    text-shadow: 10px 10px 8px #bababa;
+}

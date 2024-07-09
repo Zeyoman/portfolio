@@ -1,0 +1,208 @@
+{
+  "questions": [
+    {
+      "question": "Quelle est la capitale de la France?",
+      "choices": ["Paris", "Lyon", "Marseille"],
+      "answer": "Paris",
+      "difficulty": "easy"
+    },
+    {
+      "question": "1 + 1",
+      "choices": ["2", "4", "11"],
+      "answer": "2",
+      "difficulty": "easy"
+    },
+    {
+      "question": "A, B, C, ...",
+      "choices": ["D", "E", "Z"],
+      "answer": "D",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Hugo est ...",
+      "choices": ["Drôle", "Adorable", "Gay"],
+      "answer": "Adorable",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Quelle est la plus grande planète du système solaire?",
+      "choices": ["Mars", "Jupiter", "Saturne"],
+      "answer": "Jupiter",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables'?",
+      "choices": ["Victor Hugo", "Emile Zola", "Albert Camus"],
+      "answer": "Victor Hugo",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Quelle est la capitale de l'Allemagne?",
+      "choices": ["Berlin", "Munich", "Hambourg"],
+      "answer": "Berlin",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Quelle est la capitale de l'Espagne?",
+      "choices": ["Madrid", "Barcelone", "Valence"],
+      "answer": "Madrid",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Quelle est la capitale de l'Italie?",
+      "choices": ["Rome", "Milan", "Naples"],
+      "answer": "Rome",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Quelle est la capitale du Portugal?",
+      "choices": ["Lisbonne", "Porto", "Braga"],
+      "answer": "Lisbonne",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Quelle est la capitale du Japon?",
+      "choices": ["Tokyo", "Osaka", "Kyoto"],
+      "answer": "Tokyo",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Quelle est la capitale de la Russie?",
+      "choices": ["Moscou", "Saint-Pétersbourg", "Kazan"],
+      "answer": "Moscou",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Quelle est la capitale de la Chine?",
+      "choices": ["Pékin", "Shanghai", "Guangzhou"],
+      "answer": "Pékin",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Quelle est la capitale de l'Inde?",
+      "choices": ["New Delhi", "Mumbai", "Bangalore"],
+      "answer": "New Delhi",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Quelle est la capitale du Brésil?",
+      "choices": ["Brasília", "Rio de Janeiro", "São Paulo"],
+      "answer": "Brasília",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Quelle est la plus grande planète du système solaire?",
+      "choices": ["Mars", "Jupiter", "Saturne"],
+      "answer": "Jupiter",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Quelle est la planète la plus proche du soleil?",
+      "choices": ["Vénus", "Mercure", "Terre"],
+      "answer": "Mercure",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Qui a peint la Joconde?",
+      "choices": ["Léonard de Vinci", "Michel-Ange", "Raphaël"],
+      "answer": "Léonard de Vinci",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Quel est le symbole chimique de l'eau?",
+      "choices": ["H2O", "O2", "CO2"],
+      "answer": "H2O",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables'?",
+      "choices": ["Victor Hugo", "Émile Zola", "Albert Camus"],
+      "answer": "Victor Hugo",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Quelle est la vitesse de la lumière?",
+      "choices": ["300 000 km/s", "150 000 km/s", "450 000 km/s"],
+      "answer": "300 000 km/s",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Quelle est la formule chimique du sel de table?",
+      "choices": ["NaCl", "KCl", "CaCl2"],
+      "answer": "NaCl",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Qui a découvert la théorie de la relativité?",
+      "choices": ["Albert Einstein", "Isaac Newton", "Galilée"],
+      "answer": "Albert Einstein",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Quelle est la monnaie du Japon?",
+      "choices": ["Yen", "Won", "Yuan"],
+      "answer": "Yen",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Qui est le fondateur de Microsoft?",
+      "choices": ["Bill Gates", "Steve Jobs", "Elon Musk"],
+      "answer": "Bill Gates",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Qui a écrit 'La Divine Comédie'?",
+      "choices": ["Dante Alighieri", "Giovanni Boccaccio", "Pétrarque"],
+      "answer": "Dante Alighieri",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Quel est le nombre d'éléments dans le tableau périodique?",
+      "choices": ["118", "108", "128"],
+      "answer": "118",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Qui a découvert la pénicilline?",
+      "choices": ["Alexander Fleming", "Louis Pasteur", "Marie Curie"],
+      "answer": "Alexander Fleming",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Quelle est la distance entre la Terre et le Soleil?",
+      "choices": ["150 millions de km", "100 millions de km", "200 millions de km"],
+      "answer": "150 millions de km",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Quelle est la langue officielle du Brésil?",
+      "choices": ["Portugais", "Espagnol", "Français"],
+      "answer": "Portugais",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Qui a peint le plafond de la chapelle Sixtine?",
+      "choices": ["Michel-Ange", "Raphaël", "Léonard de Vinci"],
+      "answer": "Michel-Ange",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie?",
+      "choices": ["Canberra", "Sydney", "Melbourne"],
+      "answer": "Canberra",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Quel est le plus grand océan du monde?",
+      "choices": ["Océan Pacifique", "Océan Atlantique", "Océan Indien"],
+      "answer": "Océan Pacifique",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Qui a écrit 'Le Seigneur des Anneaux'?",
+      "choices": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin"],
+      "answer": "J.R.R. Tolkien",
+      "difficulty": "hard"
+    }
+  ]
+}

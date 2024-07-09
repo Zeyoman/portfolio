@@ -1,0 +1,162 @@
+#mainHeaderContainer{
+    display: none;
+}
+
+main{
+    background-color: #252422;
+    border-left: 1px solid #fffcf2;
+    color: #fffcf2;
+    margin-left: 30%;
+}
+
+main::-webkit-scrollbar {
+    display: none;
+}
+
+main{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+header{
+    position: fixed;
+}
+
+/* profil container */
+
+    #photoProfilAbout {
+        width: 100px;
+        border-radius: 1000px;
+    }
+
+    #presentationContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10%;
+    }
+
+    #presentationMoi {
+        text-align: center;
+    }
+    
+    @keyframes scroll {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(calc(-250px * 7))}
+    }
+    
+    .slider {
+        display: flex;
+        background: transparent;
+        height: 100px;
+        margin: auto;
+        overflow: hidden;
+        position: relative;
+        width: 65vw;
+    }
+        
+    slider::before,
+    slider::after {
+        background: linear-gradient(to right,  rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+        content: "";
+        height: 100px;
+        position: absolute;
+        width: 200px;
+        z-index: 2;
+    }
+        
+    slider::after {
+        right: 0;
+        top: 0;
+        transform: rotateZ(180deg);
+    }
+    
+    slider::before {
+        left: 0;
+        top: 0;
+    }
+        
+    .slide-track {
+        animation: scroll 40s linear infinite;
+        display: flex;
+        width: calc(250px * 14);
+    }
+        
+    .slide {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100px;
+        width: 250px;
+    }
+
+    #passions-container-title {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+
+    .passions-bloc {
+        width: 80%;
+        margin: auto;
+        padding: 20px;
+        border-radius: 15px;
+        background-color: #2e2d2b;
+    }
+
+    .passions-contenu {
+        gap: 5%;
+        display: flex;
+    }
+
+    .passions-image-bloc > #passions-image {
+        height: 200px;
+        width: 200px;
+        object-fit: cover;
+    }
+
+    .passions-texte-bloc {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #passion-container-bloc {
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    #contact {
+        margin-top: 50px;
+    }
+
+    #contact-bloc-button {
+        margin: 10px;
+        text-align: center;
+    }
+
+    #contact-button {
+        padding: 10px 20px;
+    }
+
+    #contact-button {
+        padding: 10px 20px;
+        color: #ffc55a;
+        background-color: #ffa50070;
+        border-radius: 7px;
+        border: none;
+    }
+
+    .info-little-shy {
+        font-size: 12px;
+        color: #ffffff36;
+    }
+
+    #contact-button > a {
+        color: #ffc55a;
+    }
+
+    #lien-about-github {
+        color: white;
+        text-decoration: underline;
+    }
